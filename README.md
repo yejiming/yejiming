@@ -39,8 +39,8 @@ More recently, I have spent most of my time on the AI agent ecosystem, especiall
 | Project | What It Says About Me | Link |
 | --- | --- | --- |
 | **web3-awesome-skills** | A repository I initiated and maintain around Web3 and AI-native skills, focused on curation, categorization, lightweight risk review, and workflow reuse. | [![web3-awesome-skills](https://img.shields.io/github/stars/yejiming/web3-awesome-skills?style=flat-square&logo=github&label=yejiming%2Fweb3-awesome-skills)](https://github.com/yejiming/web3-awesome-skills) |
-| **AionUi** | One of the projects where my recent public activity is most visible, reflecting my interest in local-first AI collaboration, desktop tooling, and agent interaction design. | [![AionUi](https://img.shields.io/github/stars/yejiming/AionUi?style=flat-square&logo=github&label=yejiming%2FAionUi)](https://github.com/yejiming/AionUi) |
-| **opencode** | An open-source coding agent project I actively follow and study, aligned with my interest in agent runtimes, terminal interfaces, and developer experience. | [![opencode](https://img.shields.io/github/stars/yejiming/opencode?style=flat-square&logo=github&label=yejiming%2Fopencode)](https://github.com/yejiming/opencode) |
+| **AionUi** | One of the projects where my recent public activity is most visible, reflecting my interest in local-first AI collaboration, desktop tooling, and agent interaction design. | [![AionUi](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&logo=github&label=iOfficeAI%2FAionUi)](https://github.com/iOfficeAI/AionUi) |
+| **opencode** | An open-source coding agent project I actively follow and study, aligned with my interest in agent runtimes, terminal interfaces, and developer experience. | [![opencode](https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&logo=github&label=anomalyco%2Fopencode)](https://github.com/anomalyco/opencode) |
 | **spoken-english** | A smaller product-oriented experiment that shows I am also interested in packaging content, scenarios, and interaction into something directly usable. | [![spoken-english](https://img.shields.io/github/stars/yejiming/spoken-english?style=flat-square&logo=github&label=yejiming%2Fspoken-english)](https://github.com/yejiming/spoken-english) |
 | **cmu-10715** | An earlier coursework and research repository that reflects my long-term interest in machine learning fundamentals, training workflows, and experiment reproduction. | [![cmu-10715](https://img.shields.io/github/stars/yejiming/cmu-10715?style=flat-square&logo=github&label=yejiming%2Fcmu-10715)](https://github.com/yejiming/cmu-10715) |
 
@@ -58,20 +58,10 @@ Note: `AionUi` and `opencode` are currently forked repositories on GitHub. They 
   <a href="https://github.com/yejiming/web3-awesome-skills">
     <img src="https://img.shields.io/badge/Web3%20Skills-Registry-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="web3-awesome-skills" />
   </a>
-  <a href="https://github.com/yejiming/AionUi">
+  <a href="https://github.com/iOfficeAI/AionUi">
     <img src="https://img.shields.io/badge/AionUi-AI%20Cowork-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="AionUi" />
   </a>
-  <a href="https://github.com/yejiming/opencode">
+  <a href="https://github.com/anomalyco/opencode">
     <img src="https://img.shields.io/badge/OpenCode-Agent%20Research-111827?style=for-the-badge&logo=github&logoColor=white" alt="opencode" />
   </a>
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yejiming&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejiming&layout=compact&hide_border=true" alt="Top languages" />
 </p>
