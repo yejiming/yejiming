@@ -1,4 +1,4 @@
-# Jimmy Ye
+# Chris Yang
 
 <p align="center">
   <a href="https://github.com/yejiming">
@@ -26,7 +26,7 @@
 
 ## About Me
 
-I'm **Jimmy Ye**. My public repositories roughly fall into three tracks: ongoing work around **AI coding agents, skills, MCP, and developer tooling**; self-initiated projects in **Web3, agent workflows, and automation**; and an earlier foundation in **machine learning, optimization, and research-oriented coursework**.
+I'm **Chris Yang**. My public repositories roughly fall into three tracks: ongoing work around **AI coding agents, skills, MCP, and developer tooling**; self-initiated projects in **Web3, agent workflows, and automation**; and an earlier foundation in **machine learning, optimization, and research-oriented coursework**.
 
 More recently, I have spent most of my time on the AI agent ecosystem, especially local-first collaboration tools, skill-based workflows, reusable automation, and turning research-style repositories into practical tools and reusable assets.
 
