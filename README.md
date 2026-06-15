@@ -50,7 +50,7 @@ Note: `AionUi` and `opencode` are currently forked repositories on GitHub. They 
 
 - AI coding agents and local-first collaborative tooling
 - Skills, MCP, automation workflows, and knowledge reuse
-- AI 伴侣 (AI companions) and AI 角色冒险 (AI character adventures)
+- AI companions and AI character adventures
 - Web3 capability indexing, research support, and operator-facing tools
 
 ## Selected Repositories
