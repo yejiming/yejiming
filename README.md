@@ -40,8 +40,8 @@ More recently, I have spent most of my time on the AI agent ecosystem, especiall
 | --- | --- | --- |
 | **AionUi** | One of the projects where my recent public activity is most visible, reflecting my interest in local-first AI collaboration, desktop tooling, and agent interaction design. | [![AionUi](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&logo=github&label=iOfficeAI%2FAionUi)](https://github.com/iOfficeAI/AionUi) |
 | **opencode** | An open-source coding agent project I actively follow and study, aligned with my interest in agent runtimes, terminal interfaces, and developer experience. | [![opencode](https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&logo=github&label=anomalyco%2Fopencode)](https://github.com/anomalyco/opencode) |
-| **MuseAI** | A local-first home for AI pets and companions, bringing Claude Code, Codex, and GitHub Copilot together in one cozy multi-agent workspace. | [![spoken-english](https://img.shields.io/github/stars/yejiming/KittyCrew?style=flat-square&logo=github&label=yejiming%2FMuseAI)](https://github.com/yejiming/MuseAI) |
-| **KittyCode** | A minimal, hackable AI coding agent with a composable tool loop and modular skills | [![web3-awesome-skills](https://img.shields.io/github/stars/yejiming/KittyCode?style=flat-square&logo=github&label=yejiming%2FKittyCode)](https://github.com/yejiming/KittyCode) |
+| **MuseAI** | A local-first AI companion and text adventure app — create AI characters, build story worlds, embark on adventures, and accumulate memories, relationships and bonds through every interaction. | [![MuseAI](https://img.shields.io/github/stars/yejiming/MuseAI?style=flat-square&logo=github&label=yejiming%2FMuseAI)](https://github.com/yejiming/MuseAI) |
+| **KittyCode** | A minimal, hackable AI coding agent with a composable tool loop and modular skills | [![KittyCode](https://img.shields.io/github/stars/yejiming/KittyCode?style=flat-square&logo=github&label=yejiming%2FKittyCode)](https://github.com/yejiming/KittyCode) |
 
 
 Note: `AionUi` and `opencode` are currently forked repositories on GitHub. They are included here to represent my ongoing participation, tracking, and customization work around those open-source directions.
@@ -50,13 +50,14 @@ Note: `AionUi` and `opencode` are currently forked repositories on GitHub. They 
 
 - AI coding agents and local-first collaborative tooling
 - Skills, MCP, automation workflows, and knowledge reuse
+- AI 伴侣 (AI companions) and AI 角色冒险 (AI character adventures)
 - Web3 capability indexing, research support, and operator-facing tools
 
 ## Selected Repositories
 
 <p align="center">
-  <a href="https://github.com/yejiming/web3-awesome-skills">
-    <img src="https://img.shields.io/badge/Web3%20Skills-Registry-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="web3-awesome-skills" />
+  <a href="https://github.com/yejiming/MuseAI">
+    <img src="https://img.shields.io/badge/MuseAI-AI%20Companion-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="MuseAI" />
   </a>
   <a href="https://github.com/iOfficeAI/AionUi">
     <img src="https://img.shields.io/badge/AionUi-AI%20Cowork-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="AionUi" />
