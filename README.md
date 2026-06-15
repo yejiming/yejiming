@@ -26,7 +26,7 @@
 
 ## About Me
 
-I'm **Chris Yang**. My public repositories roughly fall into three tracks: ongoing work around **AI coding agents, skills, MCP, and developer tooling**; self-initiated projects in **Web3, agent workflows, and automation**; and an earlier foundation in **machine learning, optimization, and research-oriented coursework**.
+I'm **Jimmy Ye**. My public repositories roughly fall into three tracks: ongoing work around **AI coding agents, skills, MCP, and developer tooling**; self-initiated projects in **Web3, agent workflows, and automation**; and an earlier foundation in **machine learning, optimization, and research-oriented coursework**.
 
 More recently, I have spent most of my time on the AI agent ecosystem, especially local-first collaboration tools, skill-based workflows, reusable automation, and turning research-style repositories into practical tools and reusable assets.
 
@@ -40,7 +40,7 @@ More recently, I have spent most of my time on the AI agent ecosystem, especiall
 | --- | --- | --- |
 | **AionUi** | One of the projects where my recent public activity is most visible, reflecting my interest in local-first AI collaboration, desktop tooling, and agent interaction design. | [![AionUi](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square&logo=github&label=iOfficeAI%2FAionUi)](https://github.com/iOfficeAI/AionUi) |
 | **opencode** | An open-source coding agent project I actively follow and study, aligned with my interest in agent runtimes, terminal interfaces, and developer experience. | [![opencode](https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&logo=github&label=anomalyco%2Fopencode)](https://github.com/anomalyco/opencode) |
-| **KittyCrew** | A local-first home for AI pets and companions, bringing Claude Code, Codex, and GitHub Copilot together in one cozy multi-agent workspace. | [![spoken-english](https://img.shields.io/github/stars/yejiming/KittyCrew?style=flat-square&logo=github&label=yejiming%2FKittyCrew)](https://github.com/yejiming/KittyCrew) |
+| **MuseAI** | A local-first home for AI pets and companions, bringing Claude Code, Codex, and GitHub Copilot together in one cozy multi-agent workspace. | [![spoken-english](https://img.shields.io/github/stars/yejiming/KittyCrew?style=flat-square&logo=github&label=yejiming%2FMuseAI)](https://github.com/yejiming/MuseAI) |
 | **KittyCode** | A minimal, hackable AI coding agent with a composable tool loop and modular skills | [![web3-awesome-skills](https://img.shields.io/github/stars/yejiming/KittyCode?style=flat-square&logo=github&label=yejiming%2FKittyCode)](https://github.com/yejiming/KittyCode) |
 
 
